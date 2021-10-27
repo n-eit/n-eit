@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathana%C3%ABl-jou%C3%ABt/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 <!--
 **n-eit/n-eit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
